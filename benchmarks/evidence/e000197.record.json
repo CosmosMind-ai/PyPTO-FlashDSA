@@ -1,0 +1,39 @@
+{
+ "eid": "e000197",
+ "key": "6b737a0df1bc0b6f",
+ "ts": "2026-11-10T11:38:15+0000",
+ "verifier": null,
+ "campaign": "c12",
+ "level": "decision",
+ "holdout": null,
+ "round": null,
+ "wave": null,
+ "cid": "CARRY-c12",
+ "family": "p3_region_specialized_score_service",
+ "family_sha": "63c5565b79bf",
+ "params": {
+  "mask_engine": 2,
+  "query_guard": 0,
+  "suffix_policy": 0,
+  "suffix_band_log2": 8
+ },
+ "source": "carry:e000189",
+ "design": {
+  "artifact": "9064c95184948c37"
+ },
+ "verdict": "PASS",
+ "failed": [],
+ "target_met": true,
+ "simulated": true,
+ "metrics": {
+  "correct": 1,
+  "n_shapes": 1,
+  "latency_us": 982.66,
+  "latency_min_us": 982.66
+ },
+ "error": null,
+ "infra": false,
+ "host_s": 18.0,
+ "gain_pct": 99.2803,
+ "score": -0.007197129995551323
+}

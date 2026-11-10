@@ -1,0 +1,27 @@
+{
+ "eid": "e000193",
+ "campaign": "c16",
+ "round": 62,
+ "wave": 1,
+ "cid": "r062-certified-short-row-complete-finisher",
+ "level": "decision",
+ "family": "certified_short_row_complete_finisher_r062",
+ "family_sha": "5b16ef7376a2",
+ "params": {
+  "certified_short_finish": 1
+ },
+ "source": "explicit",
+ "design": {
+  "artifact": "09dfc3034d1baac3"
+ },
+ "verdict": "PASS",
+ "failed": [],
+ "gain_pct": 94.5159,
+ "score": -0.05484132641773801,
+ "metrics": {
+  "correct": 1,
+  "n_shapes": 1,
+  "latency_us": 44.62,
+  "latency_min_us": 44.62
+ }
+}

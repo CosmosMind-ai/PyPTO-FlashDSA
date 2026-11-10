@@ -1,0 +1,27 @@
+{
+ "eid": "e000180",
+ "campaign": "c18",
+ "round": 60,
+ "wave": 1,
+ "cid": "r060-complete-head-dual-aiv",
+ "level": "decision",
+ "family": "owner32_dual_aiv_resident_attention",
+ "family_sha": "fc427db32673",
+ "params": {
+  "vector_mode": 2
+ },
+ "source": "explicit",
+ "design": {
+  "artifact": "c1ec770ab8924bf5"
+ },
+ "verdict": "PASS",
+ "failed": [],
+ "gain_pct": 100.0,
+ "score": -6.1949494949494946e-12,
+ "metrics": {
+  "correct": 1,
+  "n_shapes": 1,
+  "latency_us": 61.33,
+  "latency_min_us": 61.33
+ }
+}

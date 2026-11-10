@@ -1,0 +1,9 @@
+{
+  "eid": "e000213",
+  "campaign": "c12",
+  "level": "decision",
+  "verdict": "PASS",
+  "gain_pct": 99.5402,
+  "family": "mxfp4_k128_resident_decode_masks",
+  "note": "Decision-level PASS at round 41 wave 1 (99.5402% gain vs unfused same-DSL decomposition); sealed holdout evidence in e000213.holdout.json (334.48 us, contamination-free)."
+}
